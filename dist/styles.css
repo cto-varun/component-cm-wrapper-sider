@@ -1,0 +1,5 @@
+.cm-wrapper-sider {
+    background: #008b3b;
+    width: 48px;
+    height: calc(100vh - 48px);
+}
